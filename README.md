@@ -2,14 +2,16 @@
 
 <!-- GIF + Typing Animation -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin-bottom: 30px;">
+
   <!-- GIF -->
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJzZ2JhbjJrM3ljZWpod3k5NnFsZWJsYTZoNWVwdmdhNXdic2UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" />
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&width=550&lines=Passionate+about+Web+%26+Mobile+Apps;Exploring+React+Native+%26+Flutter;Crafting+Modern+Digital+Experiences;Turning+Ideas+into+Scalable+Solutions;Always+Learning+New+Technologies" alt="Animated Typing" />
+  <img style="margin-top:-20px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Passionate+about+Web+%26+Mobile+Apps;Exploring+React+Native+%26+Flutter;Crafting+Modern+Digital+Experiences;Turning+Ideas+into+Scalable+Solutions;Always+Learning+New+Technologies" alt="Animated Typing" />
 </div>
 
 ---
+
 
 ## 🚀 About Me
 
