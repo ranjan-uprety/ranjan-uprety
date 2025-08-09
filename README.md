@@ -1,10 +1,8 @@
 # 👋 Welcome to My GitHub Profile!
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=440&lines=Full-Stack+Developer+from+Kathmandu;Building+Web+%26+Mobile+Apps;Passionate+about+React+%26+Flutter" alt="Animated Typing" />
-    <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJzZ2JhbjJrM3ljZWpod3k5NnFsZWJsYTZoNWVwdmdhNXdic2UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" style="margin-left: 20px;" />
-  </div>
+<div style="display: flex; align-items: center; justify-content: center; margin-top: 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=400&lines=Passionate+about+React+&+Flutter;Full-Stack+Developer+from+Kathmandu;Building+Web+&+Mobile+Apps" alt="Animated Typing" />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJzZ2JhbjJrM3ljZWpod3k5NnFsZWJsYTZoNWVwdmdhNXdic2UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" style="margin-left: 20px;" />
 </div>
 
 ## 🚀 About Me
@@ -15,7 +13,7 @@
 - 🤝 **Open to**: Collaborating on **web** and **mobile app** projects.
 - 🌱 **Learning**: **Node.js**, **MongoDB**, **Flutter**, and **React Native**.
 - 💬 **Ask me about**: **HTML, CSS, JavaScript, React, and backend basics**.
-- ⚡ **Fun fact**: My code runs smoother after a cup of coffee — and so do I 😄
+- ⚡ **Fun fact**: My code runs better after ☕ — and so do I 😄
 
 ## 🛠️ Tech Stack
 
@@ -46,24 +44,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-uprety&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjan-uprety&layout=compact&langs_count=5&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-uprety&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjan-uprety&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjan-uprety&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-## 🌟 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan-uprety&repo=SpendWise&theme=radical&hide_border=true" alt="Repo 1" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ranjan-uprety&repo=BonsaiBliss&theme=radical&hide_border=true" alt="Repo 2" />
-</div>
-
-*Note: Replace `your-repo-1` and `your-repo-2` with actual repository names you want to highlight.*
 
 ## 🤝 Connect with Me
 
