@@ -1,10 +1,13 @@
 # 👋 Welcome to My GitHub Profile!
 
-<!-- Typing Animation -->
-<div align="center" style="margin-bottom: 30px;">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJzZ2JhbjJrM3ljZWpod3k5NnFsZWJsYTZoNWVwdmdhNXdic2UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" style="margin-right: 20px;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Passionate+about+React+%26+Flutter;Full-Stack+Developer+from+Kathmandu;Crafting+Modern+Web+%26+Mobile+Apps;Loving+JavaScript%2C+TypeScript+%26+Node.js;Always+Exploring+New+Technologies" alt="Animated Typing" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 40px; margin-bottom: 30px;">
+  <!-- GIF -->
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJzZ2JhbjJrM3ljZWpod3k5NnFsZWJsYTZoNWVwdmdhNXdic2UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" />
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&width=550&lines=Passionate+about+React+%26+Flutter;Exploring+React+Native+%26+Full-Stack+Dev;Crafting+Modern+Web+%26+Mobile+Apps;Loving+JavaScript%2C+TypeScript+%26+Node.js;Always+Learning+New+Technologies" alt="Animated Typing" />
 </div>
+
 
 ---
 
@@ -76,13 +79,11 @@
 
 ---
 
-## 🎧 Spotify Now Playing
-
-<div align="center" style="margin: 30px 0; animation: pulse 2s infinite;">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=cei8s43wk8t94ag3bioj2cdhr&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=cei8s43wk8t94ag3bioj2cdhr&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ranjan-uprety&theme=dracula&hide_border=true" />
 </div>
+
 
 ---
 
