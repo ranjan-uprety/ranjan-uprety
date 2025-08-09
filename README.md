@@ -1,9 +1,12 @@
 # 👋 Welcome to My GitHub Profile!
 
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 30px;">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJzZ2JhbjJrM3ljZWpod3k5NnFsZWJsYTZoNWVwdmdhNXdic2UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" style="margin-right: 40px;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Passionate+about+React+&+Flutter;Full-Stack+Developer+from+Kathmandu;Building+Web+&+Mobile+Apps;Always+Learning+New+Tech;Crafting+Seamless+Experiences" alt="Animated Typing" />
+<!-- Typing Animation -->
+<div align="center" style="margin-bottom: 30px;">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJzZ2JhbjJrM3ljZWpod3k5NnFsZWJsYTZoNWVwdmdhNXdic2UxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding GIF" style="margin-right: 20px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Passionate+about+React+%26+Flutter;Full-Stack+Developer+from+Kathmandu;Crafting+Modern+Web+%26+Mobile+Apps;Loving+JavaScript%2C+TypeScript+%26+Node.js;Always+Exploring+New+Technologies" alt="Animated Typing" />
 </div>
+
+---
 
 ## 🚀 About Me
 
@@ -15,9 +18,11 @@
 - 💬 **Ask me about**: **HTML, CSS, JavaScript, React, and backend basics**.
 - ⚡ **Fun fact**: My code runs better after ☕ — and so do I 😄
 
+---
+
 ## 🛠️ Tech Stack
 
-<div align="left" style="margin: 20px 0;">
+<div align="center" style="margin: 30px 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
@@ -41,34 +46,47 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-uprety&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjan-uprety&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjan-uprety&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjan-uprety&layout=compact&theme=dracula" height="180" />
 </div>
+
+---
 
 ## 🤝 Connect with Me
 
-<div align="left" style="margin: 20px 0;">
+<div align="center" style="margin: 30px 0;">
   <a href="https://www.linkedin.com/in/ranjan-uprety/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" />
   </a>
   <a href="https://x.com/Ranjan_Upretyy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="50" alt="twitter logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="50" />
   </a>
   <a href="https://www.instagram.com/ranjan_uprety/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="50" alt="instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="50" />
   </a>
   <a href="mailto:ranjanuprety01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" />
   </a>
 </div>
 
-## 🎧 Spotify Recently Played
+---
 
-<div align="center" style="margin: 30px 0;">
-  <a href="https://open.spotify.com/user/cei8s43wk8t94ag3bioj2cdhr">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=cei8s43wk8t94ag3bioj2cdhr&count=3&unique=true" alt="Spotify recently played" />
+## 🎧 Spotify Now Playing
+
+<div align="center" style="margin: 30px 0; animation: pulse 2s infinite;">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=cei8s43wk8t94ag3bioj2cdhr&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=cei8s43wk8t94ag3bioj2cdhr&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
   </a>
 </div>
+
+---
+
+<!-- Animated wave divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=100&section=footer" />
+</p>
